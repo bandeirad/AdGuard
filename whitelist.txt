@@ -11,3 +11,6 @@
 @@||asadcdn.com^
 @@||acdn.adnxs.com^
 @@||akamaihd.net^
+
+##Amazon
+@@||aax-eu.amazon.de^
