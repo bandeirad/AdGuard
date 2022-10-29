@@ -17,5 +17,5 @@
 
 ##doubleclick.net
 @@||www3.doubleclick.net^
-@@||beacons.gvt2.com^
-@@||beacons.gvt3.com^
+@@||gvt2.com^
+@@||gvt3.com^
