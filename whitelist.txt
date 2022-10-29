@@ -14,8 +14,3 @@
 
 ##Amazon
 @@||aax-eu.amazon.de^
-
-##doubleclick.net
-@@||www3.doubleclick.net^
-@@||gvt2.com^
-@@||gvt3.com^
