@@ -14,3 +14,6 @@
 
 ##Amazon
 @@||aax-eu.amazon.de^
+
+##doubleclick.net
+@@||www3.doubleclick.net^
