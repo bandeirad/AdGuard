@@ -5,6 +5,7 @@
 @@||json.bild.de^
 @@||ioam.de^
 @@||tags.tiqcdn.com^
+@@||tags-eu.tiqcdn.com^
 @@||tagger.opecloud.com^
 @@||cdn1.smartadserver.com^
 @@||ec-ns.sascdn.com^
