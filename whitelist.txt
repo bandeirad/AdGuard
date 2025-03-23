@@ -10,7 +10,7 @@
 @@||cdn1.smartadserver.com^
 @@||ec-ns.sascdn.com^
 @@||asadcdn.com^
-@@||acdn.adnxs.com^
+@@||adnxs.com^
 @@||akamaihd.net^
 
 ##Amazon
